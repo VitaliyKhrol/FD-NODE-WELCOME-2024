@@ -16,3 +16,6 @@ Promise.all([textPromise, userDataPromise])
     .catch((error) => {
         console.error('Произошла ошибка:', error);
     });
+
+
+    
